@@ -1,0 +1,23 @@
+# Core LangChain packages
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-openai>=0.0.5
+langchain-text-splitters>=0.0.1
+
+# OpenAI API
+openai>=1.12.0
+
+# Vector store
+faiss-cpu>=1.7.4
+
+# Document processing
+docx2txt>=0.8
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Progress indicators
+tqdm>=4.66.0
+
+# Terminal colors
+colorama>=0.4.6
